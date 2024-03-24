@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Washington Jr.</h1>
-<h3 align="center">A passionate full stack software engineer who wants to make games one day!</h3>
+<h3 align="center">I am a recent graduate of App Academy eager to contribute my skills as a software engineer. I am a quick learner and a team player who is passionate about building applications that are intuitive and user-friendly. I am excited to join a team where I can continue to grow as a developer and contribute to the success of the company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zipzopboppitybop&label=Profile%20views&color=0e75b6&style=flat" alt="zipzopboppitybop" /> </p>
 
